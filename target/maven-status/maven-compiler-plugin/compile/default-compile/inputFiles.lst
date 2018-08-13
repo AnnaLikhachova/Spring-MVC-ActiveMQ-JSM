@@ -1,0 +1,17 @@
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/util/BasicUtil.java
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/service/PersonRepository.java
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/controller/AppController.java
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/configuration/AppInitializer.java
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/service/PersonRepositoryImpl.java
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/model/Person.java
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/service/PersonServiceImpl.java
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/messaging/MessageSender.java
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/model/PersonStatus.java
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/configuration/MessagingConfiguration.java
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/configuration/AppConfig.java
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/service/PersonService.java
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/service/PersonDao.java
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/messaging/MessageReceiver.java
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/service/PersonDaoImpl.java
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/configuration/MessagingListnerConfiguration.java
+/Users/anna/eclipse-workspace/acm/src/main/java/com/acm/service/InventoryResponse.java
